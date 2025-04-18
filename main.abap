@@ -1,4 +1,4 @@
-script main
+report main
 
 write("Banking, Financial services and Insurance.");
 write("Retail & eCommerce.");
